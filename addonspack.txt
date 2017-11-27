@@ -1,5 +1,5 @@
-name="Addons Pack 1.0"    
-url="https://archive.org/download/addons_pack_tvaddons_201711/addons_pack_tvaddons.zip"
+name="Addons Pack"    
+url="https://archive.org/download/plugin.video.addonspack/plugin.video.addonspack.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
