@@ -1,4 +1,4 @@
-name="Addons Pack"    
+name="Addons Pack for Shield TV"    
 url="https://archive.org/download/plugin.video.addonspack/plugin.video.addonspack.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
