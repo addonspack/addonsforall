@@ -1,5 +1,5 @@
 name="Addons Pack for Shield TV"    
-url="https://archive.org/download/plugin.video.addonspack/plugin.video.addonspack.zip"
+url="https://archive.org/download/sevilla_barcelona/sevilla_barcelona.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
