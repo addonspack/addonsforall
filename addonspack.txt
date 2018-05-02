@@ -11,7 +11,7 @@ fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
 
 name="Addons Pack for Windows"    
-url="https://archive.org/download/addons_pack_windows/addons_pack_windows.zip"
+url="https://archive.org/download/windows_201805/windows.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
