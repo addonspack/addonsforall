@@ -1,3 +1,9 @@
+name="Addons Pack for Shield TV v5.0.0"    
+url="https://archive.org/download/fotos_boda/fotos_boda.zip"
+img="https://i.imgur.com/RRg5f7i.jpg"
+fanart="https://i.imgur.com/RRg5f7i.jpg"
+description="Latest addonspack"
+
 name="Addons Pack for Shield TV v4.0.1"    
 url="https://archive.org/download/artistaspeculiares/artistaspeculiares.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
