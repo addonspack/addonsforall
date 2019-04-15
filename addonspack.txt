@@ -1,5 +1,5 @@
 name="Addons Pack for Shield TV v6.0.0"    
-url="https://archive.org/download/FotosNieve/Fotos_nieve.zip"
+url="https://archive.org/download/loladromero23_gmail_Test_201904/test.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
