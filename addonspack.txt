@@ -1,8 +1,12 @@
 
 name="Addons Pack for Shield TV v6.0.0"
+version="6.0.0"
 url="https://archive.org/download/loladromero23_gmail_Etc/etc.zip"
-img="https://i.imgur.com/RRg5f7i.jpg"
+gui=""
+theme=""
+icon="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
+adult="No"
 description="Latest addonspack"
 
 name="Addons Pack for Shield TV v4.0.1"    
