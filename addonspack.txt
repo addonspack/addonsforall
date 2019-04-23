@@ -1,3 +1,4 @@
+
 name="SalonDigital Lite"
 version="6.0.0"
 url="https://archive.org/download/ultra_201904/ultra.zip"
