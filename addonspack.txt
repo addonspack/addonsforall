@@ -5,7 +5,7 @@ fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
 
 name="Addons Pack for Shield TV v4.0.1"    
-url=""
+url="https://archive.org/download/playas_201809/playas.zip"
 img="https://i.imgur.com/RRg5f7i.jpg"
 fanart="https://i.imgur.com/RRg5f7i.jpg"
 description="Latest addonspack"
